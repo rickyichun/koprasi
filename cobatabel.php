@@ -1,3 +1,7 @@
+<?php 
+    include "componen/basisdata.php";
+    include "componen/cek-login.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 

@@ -9,17 +9,35 @@
                 <span>Dashboard</span>
             </a>
         </li>
-        <li>
-            <a href="datapeserta.php">
-                <i class="fa fa-map-marker"></i>
-                <span>Data Peserta </span>
+        <li class="sub-menu">
+            <a href="javascript:;">
+                <i class="fa fa-users"></i>
+                <span>Data Peserta</span>
             </a>
+            <ul class="sub">
+                <li><a href="datapeserta.php">Daftar Peserta</a></li>
+                <li><a href="inputpeserta.php">Input Peserta</a></li>
+            </ul>
         </li>
-        <li>
-            <a href="barang.php">
-                <i class="fa fa-map-marker"></i>
-                <span>Daftar Barang </span>
+        <li class="sub-menu">
+            <a href="javascript:;">
+                <i class="fa fa-cube"></i>
+                <span>Barang</span>
             </a>
+            <ul class="sub">
+                <li><a href="barang.php">Daftar Stok</a></li>
+                <li><a href="inputbarang.php">Input Barang Masuk</a></li>
+            </ul>
+        </li>
+        <li class="sub-menu">
+            <a href="javascript:;">
+                <i class="fa fa-shopping-cart"></i>
+                <span>Transaksi</span>
+            </a>
+            <ul class="sub">
+                <li><a href="">Penjualan</a></li>
+                <li><a href="">Barang Masuk</a></li>
+            </ul>
         </li>
 
         <!-- <li class="sub-menu">
@@ -32,21 +50,6 @@
         <li><a href="buttons.html">Buttons</a></li>
         <li><a href="panels.html">Panels</a></li>
         <li><a href="font_awesome.html">Font Awesome</a></li>
-    </ul>
-</li>
-<li class="sub-menu">
-    <a href="javascript:;">
-        <i class="fa fa-cogs"></i>
-        <span>Components</span>
-    </a>
-    <ul class="sub">
-        <li><a href="grids.html">Grids</a></li>
-        <li><a href="calendar.html">Calendar</a></li>
-        <li><a href="gallery.html">Gallery</a></li>
-        <li><a href="todo_list.html">Todo List</a></li>
-        <li><a href="dropzone.html">Dropzone File Upload</a></li>
-        <li><a href="inline_editor.html">Inline Editor</a></li>
-        <li><a href="file_upload.html">Multiple File Upload</a></li>
     </ul>
 </li>
 <li class="sub-menu">
