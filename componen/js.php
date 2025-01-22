@@ -19,6 +19,7 @@
 <script src="lib/datatables-buttons/js/buttons.print.min.js"></script>
 <script src="lib//datatables-buttons/js/buttons.colVis.min.js"></script>
 <!--common script for all pages-->
+
 <script type="text/javascript">
 var rupiah = document.getElementById('rupiah');
 rupiah.addEventListener('keyup', function(e) {

@@ -26,7 +26,7 @@
             </a>
             <ul class="sub">
                 <li><a href="barang.php">Daftar Stok</a></li>
-                <li><a href="inputbarang.php">Input Barang Masuk</a></li>
+                <li><a href="inputbarang.php">Input Master Barang</a></li>
             </ul>
         </li>
         <li class="sub-menu">
@@ -35,7 +35,8 @@
                 <span>Transaksi</span>
             </a>
             <ul class="sub">
-                <li><a href="">Penjualan</a></li>
+                <li><a href="daftarinvoice.php">Daftar Invoice</a></li>
+                <li><a href="penjualan.php">Penjualan</a></li>
                 <li><a href="">Barang Masuk</a></li>
             </ul>
         </li>
